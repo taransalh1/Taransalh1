@@ -1,6 +1,6 @@
 ## Tarjeet Singh
 
-Lead Software Engineer at [Tribevest](https://tribevest.com) — I lead a small team and
+Lead Software Engineer— I lead a small team and
 own the architecture of a fintech platform serving 15,000 members: serverless AWS
 backend, three production apps, and the full money-movement layer.
 
