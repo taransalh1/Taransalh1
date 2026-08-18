@@ -3,7 +3,7 @@
 Lead Software Engineer — I lead a small team and own the architecture of a fintech
 platform: serverless AWS backend, three production apps, and the full money-movement layer.
 
-**What I work on**
+**What I work on in 13 years of experience**
 
 - **Architecture** — Node.js serverless on AWS Lambda, Prisma over PostgreSQL/RDS,
   infrastructure as code with CloudFormation and Serverless Framework
