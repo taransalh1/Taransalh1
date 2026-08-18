@@ -19,4 +19,4 @@ backend, three production apps, and the full money-movement layer.
 **Currently** — building tools that make small teams ship like big ones.
 
 📍 Mohali, India · open to remote (US / Europe) and relocation
-🔗 [LinkedIn](https://www.linkedin.com/in/tsinghsalh/) · taransalh86@gmail.com
+🔗 taransalh86@gmail.com
