@@ -7,7 +7,7 @@ platform: serverless AWS backend, three production apps, and the full money-move
 
 - **Architecture** — Node.js serverless on AWS Lambda, Prisma over PostgreSQL/RDS,
   infrastructure as code with CloudFormation and Serverless Framework
-- **Payments & compliance** — Stripe Treasury, Connected Accounts, payouts, ACH, Radar;
+- **Payments & compliance** — Stripe Treasury, payouts, ACH, Radar;
   DocuSign embedded signing; automated entity formation
 - **Frontend** — Angular (2 → 16) and React, including data-heavy interfaces with
   Ag-Grid Enterprise
