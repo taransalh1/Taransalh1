@@ -1,8 +1,7 @@
 ## Tarjeet Singh
 
-Lead Software Engineer— I lead a small team and
-own the architecture of a fintech platform .Serverless AWS
-backend, three production apps, and the full money-movement layer.
+Lead Software Engineer — I lead a small team and own the architecture of a fintech
+platform: serverless AWS backend, three production apps, and the full money-movement layer.
 
 **What I work on**
 
@@ -12,9 +11,11 @@ backend, three production apps, and the full money-movement layer.
   DocuSign embedded signing; automated entity formation
 - **Frontend** — Angular (2 → 16) and React, including data-heavy interfaces with
   Ag-Grid Enterprise
+- **Cloud & delivery** — GitHub Actions into Serverless Framework stages, Cognito auth,
+  CloudWatch observability, and cloud cost work (44% reduction on my last audit)
 - **AI-assisted delivery** — MCP servers, Claude Code and Codex in the daily loop, n8n
-  workflow automation. My team ships 4–5 user-facing features per two-week cycle, up
-  from 1–2, with fewer engineers than we started with.
+  workflow automation. My team roughly doubled to tripled its output per cycle without
+  growing headcount.
 
 **Currently** — building tools that make small teams ship like big ones.
 
