@@ -1,7 +1,7 @@
 ## Tarjeet Singh
 
 Lead Software Engineer— I lead a small team and
-own the architecture of a fintech platform serving 15,000 members: serverless AWS
+own the architecture of a fintech platform .Serverless AWS
 backend, three production apps, and the full money-movement layer.
 
 **What I work on**
